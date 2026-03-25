@@ -38,6 +38,7 @@ A Streamlit app for loan default risk prediction using an XGBoost model.
    ```
 
 4. Open browser at `http://localhost:8501`
+5. Deploy the streamlit app and you will get your app at `https://sahithi6767-loan-app-app-mzcr7o.streamlit.app/`
 
 ## 🧪 Model checks
 
